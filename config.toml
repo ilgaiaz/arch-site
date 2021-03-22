@@ -81,7 +81,7 @@ disqusShortname = ""
   [params.banner]
     # To change the background image on the homepage banner, replace 'banner.jpg' in
     # the 'static/img' folder.
-    title = "Hi, my name is Forty"
+    title = "Fausto's architecture"
     subtitle = "A RESPONSIVE SITE TEMPLATE DESIGNED BY HTML5 UP\nAND RELEASED UNDER THE CREATIVE COMMONS."
     buttonText = "Get Started"
 
@@ -90,7 +90,7 @@ disqusShortname = ""
   [params.tiles]
     enable = true
     # Display your showcases here.
-    
+
     [[params.tiles.showcase]]
       title = "Aliquam"
       subtitle = "Ipsum Dolor Sit Amet"
@@ -132,16 +132,16 @@ disqusShortname = ""
     # All blogs defined in their own files. You can find example blogs
     # at 'exampleSite/content/blogs'. Copy the 'blogs' folder into the 'content' directory
     # at the root of this Hugo site.
-    # For more informtion take a look at the README.
+    # For more information take a look at the README.
     # To add more blogs just copy and paste the code.
 
   # Section Type Two
   [params.two]
     enable = true
     title = "Massa libero"
-    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. 
-    Mauris aliquet magna magna sed nunc rhoncus pharetra. 
-    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. 
+    subtitle = """Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero.
+    Mauris aliquet magna magna sed nunc rhoncus pharetra.
+    Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
     Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero.
     Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus."""
     buttonText = "Get Started"
@@ -204,7 +204,7 @@ disqusShortname = ""
       icon = "fa-instagram"
       url= "https://www.instagram.com"
       label = "Instagram"
-    
+
     [[params.footer.social]]
       icon = "fa-github"
       url= "https://www.github.com"
